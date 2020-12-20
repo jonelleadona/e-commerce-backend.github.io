@@ -12,7 +12,7 @@ Given the unmodified code, I was able to configure a working Express.js API to u
   [Installation Instructions](#installation-instructions)      
   [Questions](#questions)  
 
-  ![](.demo-sql.gif)
+  ![](./img/ecommerce-demp.gif)
 
 
   ## Installation Instructions 
